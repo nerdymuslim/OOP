@@ -1,6 +1,1 @@
-create a Database Class
-
-create property dbconn 
-give it valid db connection parameters
-
-create a destructor that closes the connection after the user leaves the page
+1) 
